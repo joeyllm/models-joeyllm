@@ -57,7 +57,7 @@ trainconfig:
   epochs: 3
   accumulation_steps: 4
   save_model_path: data/a100model2.pt
-  log_freq: 1000
+  log_freq: 100000
 
 # -------------------------------
 # Scheduler Config
